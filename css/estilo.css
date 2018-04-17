@@ -1,0 +1,157 @@
+body#corpoindex, body#bodybitcoin, body#bodylitecoin {
+	background-color: #DDE1E0;
+}
+
+
+img#bitcoinimg, img#litecoinimg {
+    border: 8px solid white;
+    box-shadow: 1px 1px 4px black;
+    width: 450px;
+
+}
+img#bitcoinimg, img#litecoinimg{
+    width: 100%;
+    height: 100%;
+
+}
+img#bitcoinimg2, img#litecoinimg2{
+    width: 100%;
+    height: 100%;
+
+}
+img#bitcoinimg2, img#litecoinimg2 {
+    border: 8px solid white;
+    box-shadow: 1px 1px 4px black;
+    width: 450px;
+}
+
+
+
+
+nav#menu li {
+
+    display: inline-block;
+    background-color: #D6D1D1;
+    padding: 10px;
+    margin: 30px;
+    transition: background-color 1s;
+	font-size: 30pt;
+	border: 1px solid black;
+	box-shadow: 1px 1px 4px black;
+
+}
+nav#menu li:hover {
+    background-color: #606060;
+}
+nav#menu ul {
+    display: block;
+    text-transform: uppercase;
+    position: absolute;
+    top: 350px;
+    left: 355px;
+	
+
+}
+nav#menu ul{
+    list-style: none;
+
+}
+nav#menu a {
+    color: black;
+    text-decoration: underline;
+    
+
+}
+.menup {
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+
+section#corpobitcoin, section#corpolitecoin {
+    display: block;
+    width: 500px;
+    float: left;
+    border-right: 1px solid #606060;
+    padding-right: 80px;
+    margin-left: 15px;
+}
+section#corpobitcoin, section#corpolitecoin {
+    font-family: Arial;
+    font-size: 19px;
+
+}
+aside#lateralbitcoin, aside#laterallitecoin {
+    display: block;
+    width: 610px;
+    float: right;
+    padding: 10px;
+    margin-top: -10px;
+
+
+
+}
+aside#lateralbitcoin, aside#laterallitecoin {
+    font-family: Arial;
+    font-size: 19px;
+
+}
+
+footer#rodapebitcoin, footer#rodapelitecoin {
+    clear: both;
+    border-top: 1px solid black;
+
+}
+footer#rodapebitcoin, footer#rodapelitecoin  {
+    text-align: center;
+}
+
+section#corpobitcoin h1, section#corpolitecoin h1   {
+    font-size: 15pt;
+    color: white;
+    background-color: #606060;
+    padding: 5px 0px 5px 10px;
+    margin: 10px 0px 10px 0px;
+    text-align: center;
+}
+aside#lateralbitcoin h1, aside#laterallitecoin h1
+{
+    font-size: 15pt;
+    color: white;
+    background-color: #606060;
+    padding: 5px 0px 5px 10px;
+    margin: 10px 0px 10px 0px;
+    text-align: center;
+
+}
+aside#lateralbitcoin h2, aside#laterallitecoin h2 {
+    font-size: 15pt;
+    color: white;
+    background-color: #606060;
+    padding: 5px 0px 5px 10px;
+    margin: 10px 0px 10px 0px;
+    text-align: center;
+}
+aside#lateralbitcoin a, aside#laterallitecoin a {
+
+    color: blue;
+    text-decoration: underline;
+    
+
+}
+
+aside#lateralbitcoin p, aside#laterallitecoin p {
+	color: black;
+}
+section#corpobitcoin p, section#corpolitecoin p {
+	color: black;
+}
+#valorCotacao {
+    
+	   font-size: 50pt; 
+	   color: red;
+       margin-left: 190px;
+	   font-weight: bold;
+	   font-weight: italic;
+}
+
+
